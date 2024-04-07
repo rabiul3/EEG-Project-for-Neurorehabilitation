@@ -1,0 +1,335 @@
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	A01T
+
+Class     3     4
+
+cross validation
+	12 fold CV
+
+Arithmetic_mean:			 75.000000. 
+Riemannian_Geometric_mean:			 77.777778. 
+LogEuclidean_Geometric_mean:			 79.861111. 
+Harmonic_mean:			 77.083333. 
+Resolvent_mean:			 79.861111. 
+Euclidean_geometric_median:			 76.388889. 
+Riemannian_geometric_median:			 77.777778. 
+LogEuclidean_geometric_median:			 75.000000. 
+trimmed_Riemannian_Geometric_mean:			 79.861111. 
+trimmed_LogEuclidean_Geometric_mean:			 81.944444. 
+trimmed_Riemannian_Geometric_median:			 81.250000. 
+trimmed_LogEuclidean_Geometric_median:			 77.777778. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	A03T
+
+Class     3     4
+
+cross validation
+	12 fold CV
+
+Arithmetic_mean:			 84.027778. 
+Riemannian_Geometric_mean:			 82.638889. 
+LogEuclidean_Geometric_mean:			 82.638889. 
+Harmonic_mean:			 81.250000. 
+Resolvent_mean:			 81.944444. 
+Euclidean_geometric_median:			 84.027778. 
+Riemannian_geometric_median:			 83.333333. 
+LogEuclidean_geometric_median:			 81.944444. 
+trimmed_Riemannian_Geometric_mean:			 84.027778. 
+trimmed_LogEuclidean_Geometric_mean:			 84.722222. 
+trimmed_Riemannian_Geometric_median:			 84.722222. 
+trimmed_LogEuclidean_Geometric_median:			 84.027778. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	A07T
+
+Class     3     4
+
+cross validation
+	12 fold CV
+
+Arithmetic_mean:			 77.777778. 
+Riemannian_Geometric_mean:			 81.250000. 
+LogEuclidean_Geometric_mean:			 77.777778. 
+Harmonic_mean:			 80.555556. 
+Resolvent_mean:			 81.250000. 
+Euclidean_geometric_median:			 80.555556. 
+Riemannian_geometric_median:			 79.861111. 
+LogEuclidean_geometric_median:			 79.861111. 
+trimmed_Riemannian_Geometric_mean:			 82.638889. 
+trimmed_LogEuclidean_Geometric_mean:			 82.638889. 
+trimmed_Riemannian_Geometric_median:			 81.250000. 
+trimmed_LogEuclidean_Geometric_median:			 81.944444. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	A08T
+
+Class     3     4
+
+cross validation
+	12 fold CV
+
+Arithmetic_mean:			 88.194444. 
+Riemannian_Geometric_mean:			 93.750000. 
+LogEuclidean_Geometric_mean:			 93.055556. 
+Harmonic_mean:			 94.444444. 
+Resolvent_mean:			 94.444444. 
+Euclidean_geometric_median:			 87.500000. 
+Riemannian_geometric_median:			 93.055556. 
+LogEuclidean_geometric_median:			 88.888889. 
+trimmed_Riemannian_Geometric_mean:			 94.444444. 
+trimmed_LogEuclidean_Geometric_mean:			 94.444444. 
+trimmed_Riemannian_Geometric_median:			 93.750000. 
+trimmed_LogEuclidean_Geometric_median:			 90.972222. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	A09T
+
+Class     3     4
+
+cross validation
+	12 fold CV
+
+Arithmetic_mean:			 66.666667. 
+Riemannian_Geometric_mean:			 72.916667. 
+LogEuclidean_Geometric_mean:			 72.222222. 
+Harmonic_mean:			 74.305556. 
+Resolvent_mean:			 74.305556. 
+Euclidean_geometric_median:			 65.277778. 
+Riemannian_geometric_median:			 70.833333. 
+LogEuclidean_geometric_median:			 71.527778. 
+trimmed_Riemannian_Geometric_mean:			 73.611111. 
+trimmed_LogEuclidean_Geometric_mean:			 75.000000. 
+trimmed_Riemannian_Geometric_median:			 72.222222. 
+trimmed_LogEuclidean_Geometric_median:			 72.916667. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	sa
+
+Class     3     4
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 76.000000. 
+Riemannian_Geometric_mean:			 76.000000. 
+LogEuclidean_Geometric_mean:			 76.000000. 
+Harmonic_mean:			 77.000000. 
+Resolvent_mean:			 78.000000. 
+Euclidean_geometric_median:			 77.500000. 
+Riemannian_geometric_median:			 75.500000. 
+LogEuclidean_geometric_median:			 70.500000. 
+trimmed_Riemannian_Geometric_mean:			 77.500000. 
+trimmed_LogEuclidean_Geometric_mean:			 79.000000. 
+trimmed_Riemannian_Geometric_median:			 77.500000. 
+trimmed_LogEuclidean_Geometric_median:			 75.000000. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	sb
+
+Class     3     4
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 55.000000. 
+Riemannian_Geometric_mean:			 59.500000. 
+LogEuclidean_Geometric_mean:			 60.500000. 
+Harmonic_mean:			 59.500000. 
+Resolvent_mean:			 62.000000. 
+Euclidean_geometric_median:			 63.500000. 
+Riemannian_geometric_median:			 57.500000. 
+LogEuclidean_geometric_median:			 61.000000. 
+trimmed_Riemannian_Geometric_mean:			 67.000000. 
+trimmed_LogEuclidean_Geometric_mean:			 65.000000. 
+trimmed_Riemannian_Geometric_median:			 63.500000. 
+trimmed_LogEuclidean_Geometric_median:			 64.000000. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	sc
+
+Class     3     4
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 48.000000. 
+Riemannian_Geometric_mean:			 48.000000. 
+LogEuclidean_Geometric_mean:			 46.000000. 
+Harmonic_mean:			 48.000000. 
+Resolvent_mean:			 52.500000. 
+Euclidean_geometric_median:			 49.500000. 
+Riemannian_geometric_median:			 47.500000. 
+LogEuclidean_geometric_median:			 49.000000. 
+trimmed_Riemannian_Geometric_mean:			 52.500000. 
+trimmed_LogEuclidean_Geometric_mean:			 53.500000. 
+trimmed_Riemannian_Geometric_median:			 53.500000. 
+trimmed_LogEuclidean_Geometric_median:			 53.000000. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	sd
+
+Class     3     4
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 41.000000. 
+Riemannian_Geometric_mean:			 58.000000. 
+LogEuclidean_Geometric_mean:			 56.500000. 
+Harmonic_mean:			 51.000000. 
+Resolvent_mean:			 61.500000. 
+Euclidean_geometric_median:			 51.000000. 
+Riemannian_geometric_median:			 59.000000. 
+LogEuclidean_geometric_median:			 58.000000. 
+trimmed_Riemannian_Geometric_mean:			 61.000000. 
+trimmed_LogEuclidean_Geometric_mean:			 61.000000. 
+trimmed_Riemannian_Geometric_median:			 61.500000. 
+trimmed_LogEuclidean_Geometric_median:			 61.000000. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	se
+
+Class     3     4
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 89.000000. 
+Riemannian_Geometric_mean:			 89.000000. 
+LogEuclidean_Geometric_mean:			 89.000000. 
+Harmonic_mean:			 88.500000. 
+Resolvent_mean:			 90.000000. 
+Euclidean_geometric_median:			 89.000000. 
+Riemannian_geometric_median:			 89.000000. 
+LogEuclidean_geometric_median:			 88.500000. 
+trimmed_Riemannian_Geometric_mean:			 90.000000. 
+trimmed_LogEuclidean_Geometric_mean:			 90.000000. 
+trimmed_Riemannian_Geometric_median:			 90.000000. 
+trimmed_LogEuclidean_Geometric_median:			 90.000000. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	S4b
+
+Class     1     2
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 54.074074. 
+Riemannian_Geometric_mean:			 53.148148. 
+LogEuclidean_Geometric_mean:			 52.962963. 
+Harmonic_mean:			 52.037037. 
+Resolvent_mean:			 53.148148. 
+Euclidean_geometric_median:			 51.851852. 
+Riemannian_geometric_median:			 51.851852. 
+LogEuclidean_geometric_median:			 51.666667. 
+trimmed_Riemannian_Geometric_mean:			 55.185185. 
+trimmed_LogEuclidean_Geometric_mean:			 55.555556. 
+trimmed_Riemannian_Geometric_median:			 55.000000. 
+trimmed_LogEuclidean_Geometric_median:			 56.111111. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	X11b
+
+Class     1     2
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 64.259259. 
+Riemannian_Geometric_mean:			 63.703704. 
+LogEuclidean_Geometric_mean:			 63.888889. 
+Harmonic_mean:			 63.703704. 
+Resolvent_mean:			 63.703704. 
+Euclidean_geometric_median:			 63.518519. 
+Riemannian_geometric_median:			 63.703704. 
+LogEuclidean_geometric_median:			 63.703704. 
+trimmed_Riemannian_Geometric_mean:			 64.629630. 
+trimmed_LogEuclidean_Geometric_mean:			 65.000000. 
+trimmed_Riemannian_Geometric_median:			 64.259259. 
+trimmed_LogEuclidean_Geometric_median:			 63.888889. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	aa
+
+Class     1     2
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 74.285714. 
+Riemannian_Geometric_mean:			 80.000000. 
+LogEuclidean_Geometric_mean:			 77.857143. 
+Harmonic_mean:			 75.714286. 
+Resolvent_mean:			 77.142857. 
+Euclidean_geometric_median:			 81.428571. 
+Riemannian_geometric_median:			 80.000000. 
+LogEuclidean_geometric_median:			 78.214286. 
+trimmed_Riemannian_Geometric_mean:			 80.000000. 
+trimmed_LogEuclidean_Geometric_mean:			 78.928571. 
+trimmed_Riemannian_Geometric_median:			 80.000000. 
+trimmed_LogEuclidean_Geometric_median:			 80.714286. 
+
+-------- Results --------
+-------------------------
+28-Apr-2016
+
+SCM	al
+
+Class     1     2
+
+cross validation
+	10 fold CV
+
+Arithmetic_mean:			 94.642857. 
+Riemannian_Geometric_mean:			 93.571429. 
+LogEuclidean_Geometric_mean:			 95.357143. 
+Harmonic_mean:			 95.000000. 
+Resolvent_mean:			 95.000000. 
+Euclidean_geometric_median:			 93.571429. 
+Riemannian_geometric_median:			 93.571429. 
+LogEuclidean_geometric_median:			 94.642857. 
+trimmed_Riemannian_Geometric_mean:			 95.357143. 
+trimmed_LogEuclidean_Geometric_mean:			 95.714286. 
+trimmed_Riemannian_Geometric_median:			 95.357143. 
+trimmed_LogEuclidean_Geometric_median:			 95.357143. 
