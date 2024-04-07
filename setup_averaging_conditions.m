@@ -1,7 +1,6 @@
-function [ave, Para] = setup_averaging_conditions
-
 % {choose the averages --- 0: not use, 1: use}
 %by Matteo Sartori
+function [ave, Para] = setup_averaging_conditions
 
 % mean
 ave.Arithmetic_mean = 1;
@@ -17,8 +16,7 @@ ave.Riemannian_geometric_median = 1;
 ave.LogEuclidean_geometric_median = 1;
 
 % trimmed averaging parameter
-%Para.trim_range = [.5:.025:1]; % similar to the percentile
-Para.trim_range = [.05:.05:1];
+Para.trim_range = [.05:.05:1]; % similar to the percentile
 Para.trimmed_Riemannian_Geometric_mean = sort(Para.trim_range, 'descend');
 Para.trimmed_LogEuclidean_Geometric_mean = sort(Para.trim_range, 'descend');
 Para.trimmed_Riemannian_Geometric_median = sort(Para.trim_range, 'descend');
@@ -28,10 +26,13 @@ Para.trimmed_LogEuclidean_Geometric_median = sort(Para.trim_range, 'descend');
 ave.trimmed_Riemannian_Geometric_mean = 1;
 ave.trimmed_LogEuclidean_Geometric_mean = 1;
 
-
 % trimmed median (include standard medians)
 ave.trimmed_Riemannian_Geometric_median = 1;
 ave.trimmed_LogEuclidean_Geometric_median = 1;
 
+% 0: trimmed average for whole class; 
+% 1: trimmed averages for each class and geometric mean of averages
+Para.trim_each_class=0;
+
 % other method to determine reference point
-ave.Identity = 1;
+ave.Identity = 0;
